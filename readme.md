@@ -1,6 +1,6 @@
 # 📝 MERN Stack Todo List App
 
-This is a full-stack **Todo List web application** built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). The app allows users to create, edit, delete, and mark todos as complete.
+This is a full-stack **Todo List web application** built using the **MERN stack** (MongoDB, React.js, Node.js). The app allows users to create, edit, delete, and mark todos as complete.
 
 ---
 
@@ -19,12 +19,10 @@ This is a full-stack **Todo List web application** built using the **MERN stack*
 
 **Frontend:**
 - React.js
-- Axios
 - CSS / Bootstrap (or Tailwind)
 
 **Backend:**
 - Node.js
-- Express.js
 - MongoDB (with Mongoose)
 
 **Deployment:**
@@ -37,7 +35,6 @@ This is a full-stack **Todo List web application** built using the **MERN stack*
 
 - 🌐 **Frontend**: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)
 - 🌐 **Backend**: [https://your-backend.onrender.com](https://your-backend.onrender.com)
-- 🎥 **Demo Video**: [https://drive.google.com/your-demo-video](https://drive.google.com/your-demo-video)
 
 ---
 
@@ -79,22 +76,8 @@ mern-todo-app/
 
 ---
 
-## 📸 Demo Screenshots
-
-> *[Add screenshots of your UI and APIs here]*
-
----
 
 ## 👨‍💻 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
----
-
-## 📌 Notes
-
-- Ensure `.env` file is NOT pushed to GitHub.
-- CORS is properly configured in `server.js`.
-- MongoDB used from Atlas or local (based on your config).
-- Deployed backend should support CRUD APIs for todos.
+**Harshvardhan Singh Panwar**  
+[LinkedIn]((https://www.linkedin.com/in/panwarharsh05/)) | [GitHub](https://github.com/harshpanwar05)

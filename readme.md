@@ -80,4 +80,4 @@ mern-todo-app/
 ## 👨‍💻 Author
 
 **Harshvardhan Singh Panwar**  
-[LinkedIn]((https://www.linkedin.com/in/panwarharsh05/)) | [GitHub](https://github.com/harshpanwar05)
+[LinkedIn](https://www.linkedin.com/in/panwarharsh05/)| [GitHub](https://github.com/harshpanwar05)
